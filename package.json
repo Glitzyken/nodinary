@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A simple utility for uploading images using Cloudinary, Multer, and Sharp in Nodejs.",
   "main": "app.js",
+  "homepage": "https://github.com/Glitzyken/nodinary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glitzyken/nodinary.git"
+  },
   "scripts": {
     "start": "node app.js"
   },
@@ -14,7 +19,7 @@
     "multer",
     "sharp"
   ],
-  "author": "Kenneth Jimmy",
+  "author": "Kenneth Jimmy <kenjimmy17@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
