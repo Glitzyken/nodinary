@@ -1,0 +1,26 @@
+{
+  "name": "nodinary",
+  "version": "1.0.0",
+  "description": "A simple utility for uploading images using Cloudinary, Multer, and Sharp in Nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "cloudinary",
+    "image",
+    "upload",
+    "nodejs",
+    "multer",
+    "sharp"
+  ],
+  "author": "Kenneth Jimmy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cloudinary": "^1.27.1",
+    "multer": "^1.4.3",
+    "sharp": "^0.29.3",
+    "streamifier": "^0.1.1"
+  }
+}
